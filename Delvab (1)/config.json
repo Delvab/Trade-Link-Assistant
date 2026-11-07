@@ -1,0 +1,35 @@
+{
+  "prefix": ".",
+  "guild_id": 1547924234871898223,
+  "vouch_channel_id": 0,
+  "staff_role_ids": [],
+  "trader_role_ids": [],
+  "whitelist_role_ids": [],
+  "whitelist_user_ids": [],
+  "owner_ids": [],
+  "ticket_category_ids": [],
+  "middleman": {
+    "id": 0,
+    "name": "Kaizo",
+    "baseline_vouches": 240,
+    "baseline_rating": 4.93
+  },
+  "links": {
+    "ticket": "",
+    "fallback_thumbnail": ""
+  },
+  "auto": {
+    "enabled": true,
+    "first_delay_min_seconds": 120,
+    "first_delay_max_seconds": 300,
+    "interval_min_seconds": 2700,
+    "interval_max_seconds": 7200,
+    "daily_cap": 10
+  },
+  "close": {
+    "vouch_delay_min_seconds": 60,
+    "vouch_delay_max_seconds": 180,
+    "delete_channel": true,
+    "delete_after_seconds": 15
+  }
+}

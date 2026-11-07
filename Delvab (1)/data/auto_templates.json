@@ -1,0 +1,33 @@
+{
+  "traders": [
+    {"name": "luhvzy", "vouches": 14, "rating": 4.9},
+    {"name": "kaizen", "vouches": 9, "rating": 5.0},
+    {"name": "mika", "vouches": 21, "rating": 4.8},
+    {"name": "zed", "vouches": 6, "rating": 4.9},
+    {"name": "riley", "vouches": 11, "rating": 5.0},
+    {"name": "nova", "vouches": 17, "rating": 4.7},
+    {"name": "juno", "vouches": 4, "rating": 5.0},
+    {"name": "ash", "vouches": 8, "rating": 4.9}
+  ],
+  "trades": [
+    "In-Game Items ⇄ GCash",
+    "GCash ⇄ In-Game Items",
+    "Robux ⇄ GCash",
+    "In-Game Items ⇄ Robux",
+    "GCash ⇄ PayPal",
+    "Crypto ⇄ GCash",
+    "In-Game Items ⇄ Crypto",
+    "Robux ⇄ PayPal"
+  ],
+  "reviews": [
+    {"rating": 5, "text": "Very patient and professional middleman throughout."},
+    {"rating": 5, "text": "Fast and smooth, walked me through the whole trade."},
+    {"rating": 5, "text": "Held the items, no issues at all. Would use again."},
+    {"rating": 5, "text": "Legit and quick, answered every question I had."},
+    {"rating": 5, "text": "Smooth from start to finish, good communication."},
+    {"rating": 5, "text": "Zero problems, everything went exactly as agreed."},
+    {"rating": 4, "text": "Took a little while to reply but the trade was clean."},
+    {"rating": 4, "text": "Solid middleman, everything went as agreed."}
+  ],
+  "proof_urls": []
+}
